@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|  
-    s.name              = 'TravelSafelyBoneshellIBI'
+    s.name              = 'TravelSafelyBoneshellIbi'
     s.version           = '1.0.0'
     s.summary           = 'TravelSafelyBoneshell make your travels faster and safer SDK.'
     s.homepage          = 'https://github.com/Applied-Information/ibiframework.git'
