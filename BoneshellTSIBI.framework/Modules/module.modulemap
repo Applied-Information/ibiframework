@@ -1,0 +1,11 @@
+framework module BoneshellTSIBI {
+  umbrella header "BoneshellTSIBI.h"
+
+  export *
+  module * { export * }
+}
+
+module BoneshellTSIBI.Swift {
+  header "BoneshellTSIBI-Swift.h"
+  requires objc
+}
